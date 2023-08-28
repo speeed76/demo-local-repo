@@ -1,0 +1,1 @@
+gh repo create $(basename $(pwd)) --public
